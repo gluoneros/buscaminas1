@@ -3,10 +3,7 @@ import java.util.LinkedList;
 import java.util.List;
 import java.util.function.Consumer;
 
-/**
- *
- * @author BELSOFT
- */
+
 public class TableroBuscaminas {
     Casilla[][] casillas;
     
